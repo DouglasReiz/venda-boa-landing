@@ -1067,7 +1067,7 @@ footer {
 
     .feat-big {
         padding: 24px;
-        min-height: 380px;
+        height: 400px;
     }
 
     .feat-big h3 {
